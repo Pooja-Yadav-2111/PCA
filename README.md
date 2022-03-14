@@ -6,7 +6,7 @@ Its main aim is to overcome the dimensionality of the problem. The reduction of 
 Also, the interpretation of principal components can explain associations among variables that are not visible at first glance.
 It helps analyze the scattering of the observations and recognize the variables responsible for distribution.
 
-#Context
+# Context
 Our client is an Insurance company that has provided Health Insurance to its customers now they need your help inbuilding a model to predict whether the 
 policyholders (customers) from past year will also be interested in Vehicle Insurance provided by the company.
 An insurance policy is an arrangement by which a company undertakes to provide a guarantee of compensation for specified loss, damage,illness, or death in return for the
